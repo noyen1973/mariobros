@@ -1,2 +1,3 @@
 # mariobros
-Mario Bros... NOT
+
+Mario Bros. failure for the Foenix F256 retro computer.
